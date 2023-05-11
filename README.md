@@ -4,16 +4,16 @@ Este proyecto simula la cola de un supermercado utilizando la estructura de dato
 
 En la parte derecha de la interfaz hay una gráfica circular que muestra el número de personas atendidas en cada cola. En la parte izquierda hay contadores más detallados que indican la cantidad de personas atendidas y por atender en cada cola. En la parte superior derecha hay un reloj que muestra la hora y fecha.
 
-#Instalación
+# Instalación
 Para instalar y ejecutar este proyecto, sigue estos pasos:
 
 Abre el proyecto en Visual Studio.
 Ejecuta el proyecto haciendo clic en el botón “Iniciar” o presionando F5.
-#Uso
+# Uso
 Para usar el simulador de cola de supermercado, sigue estos pasos:
 
 Ejecuta el proyecto en Visual Studio.
-Haz clic en una de las máquinas repartidoras de tickets para agregar un elemento a la cola correspondiente.
-Si quieres atender a una persona en una cola, haz clic en el botón “Siguiente” que se encuentra junto a la imagen del cajero correspondiente.
-La cola se actualizará y verás que al lado del cajero hay una pantalla que muestra el número de ticket que está siendo atendido en ese momento.
+1. Haz clic en una de las máquinas repartidoras de tickets para agregar un elemento a la cola correspondiente.
+2. Si quieres atender a una persona en una cola, haz clic en el botón “Siguiente” que se encuentra junto a la imagen del cajero correspondiente.
+3. La cola se actualizará y verás que al lado del cajero hay una pantalla que muestra el número de ticket que está siendo atendido en ese momento.
 ![Captura de pantalla del proyecto](Resources/Captura.png)
